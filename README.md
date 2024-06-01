@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego)
 
 # sa_enum_lego
-description here
+enum template under lego framework.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add sa_enum_lego
 ```
-
-## Usage
-Usage here
